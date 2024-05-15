@@ -24,7 +24,7 @@
 
 - Projetos Pessoais
 - Criar casos de pequenos projetos
-- Presonalizando meu portifólio de Ciência de Dados
+- Personalizando meu portifólio de Ciência de Dados
 
 <h3 align="left">Tecnologias Dominadas:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
