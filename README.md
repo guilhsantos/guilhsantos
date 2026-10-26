@@ -61,7 +61,7 @@ Os projetos de empresa e de clientes têm código privado e estão no portfólio
 | [📉 Churn_Prevision_Streaming](https://github.com/guilhsantos/Churn_Prevision_Streaming) | Previsão de cancelamento em streaming (Machine Learning) |
 | [🧩 RFV_Analysis_Clustering](https://github.com/guilhsantos/RFV_Analysis_Clustering) | Segmentação de clientes de e-commerce com K-Means (RFV) |
 | [📊 Modelo_de_Regressao_para_Marketing](https://github.com/guilhsantos/Modelo_de_Regressao_para_Marketing) | Quanto cada canal de mídia contribui para as vendas |
-| [📦 Inventory_Automation](https://github.com/guilhsantos/Inventory_Automation) | Aplicação web de controle de estoque ([demo](https://automacao-de-estoque.vercel.app)) |
+| [📦 Stock_Control_Web](https://github.com/guilhsantos/Stock_Control_Web) | Controle de estoque e produção com Next.js e Supabase (versão pública, sem marca nem dados de empresa) |
 
 ## 📨 Vamos conversar
 
