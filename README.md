@@ -1,47 +1,35 @@
-<h1 align="left">Olá, Eu sou Guilherme Santos</h1>
-<h3 align="left">Bem-vindo ao meu GitHub!</h3>
+# Guilherme Santos
 
+**IA & Transformação de Negócios** · São Paulo, SP
 
-<h3 align="left">💻 Um pouco sobre mim</h3>
+Ajudo empresas a pensar e operar com IA: do diagnóstico e da mudança de mentalidade das equipes até a solução em produção, com resultado medido.
 
+Estruturei a primeira área de automação e IA da Pegaki (Grupo Intelipost) e fui eleito Embaixador de IA do grupo em 2025.
 
-- 🇧🇷 Brasileiro
-- 👨‍💻 Apaixonado por ciência e análise de dados
+[LinkedIn](https://www.linkedin.com/in/guilherme-santos-dataeng) · [E-mail](mailto:guisantos0921@gmail.com)
 
+## No que trabalho
 
-  
-🌱 Atualmente estou focado em aprender e entender como resolver problemas usando dados com **python, estatística, machine learning**
-  
-💬 Me pergunte sobre **SQL, Power BI, Excel**
+- **Estratégia e adoção de IA**: onde a IA gera valor, o que priorizar e como os times passam a usar de verdade.
+- **Agentes e IA generativa**: roteirizador AI-first e agentes autônomos em produção.
+- **Machine Learning e Deep Learning**: classificação, clusterização, regressão e visão computacional com redes neurais (YOLOv8).
+- **Dados e automação**: pipelines, painéis que a liderança usa e orquestração low-code.
 
+## Projetos públicos
 
+Os projetos de empresa e de clientes têm código privado e estão no portfólio, com problema, abordagem e resultado. Aqui ficam os meus estudos e produtos:
 
-<h3 align="left">📨 Entre em contato:</h3>
-<a href="https://linkedin.com/in/www.linkedin.com/in/guilherme-santos-dataeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/guilherme-santos-dataeng" height="30" width="40" /></a>
-</p>
+| Projeto | O que é |
+|---|---|
+| [Churn_Prevision_Streaming](https://github.com/guilhsantos/Churn_Prevision_Streaming) | Previsão de cancelamento em streaming (Machine Learning) |
+| [RFV_Analysis_Clustering](https://github.com/guilhsantos/RFV_Analysis_Clustering) | Segmentação de clientes de e-commerce com K-Means (RFV) |
+| [Modelo_de_Regressao_para_Marketing](https://github.com/guilhsantos/Modelo_de_Regressao_para_Marketing) | Quanto cada canal de mídia contribui para as vendas |
+| [Inventory_Automation](https://github.com/guilhsantos/Inventory_Automation) | Aplicação web de controle de estoque ([demo](https://automacao-de-estoque.vercel.app)) |
 
-<h3 align="left">👨‍💻 Estou Trabalhando</h3> 
+## Stack
 
-- Projetos Pessoais
-- Criar casos de pequenos projetos
-- Personalizando meu portifólio de Ciência de Dados
+`Python` · `SQL` · `Power BI` · `scikit-learn` · `YOLOv8` · `N8N` · `LLMs e agentes` · `Kubernetes` · `GCP` · `Docker`
 
-<h3 align="left">Tecnologias Dominadas:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"
-width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img 
-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a 
-href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img 
-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a 
-href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" 
-height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" 
-alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img 
-href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" 
-alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img 
-src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Formação
 
-
+MBA em Transformação de Negócios com IA Generativa (Faculdade HUB, 2026) · Mestrado em Business e IA (AGTU, previsto 2027) · Engenharia de Controle e Automação (2023)
